@@ -14,5 +14,4 @@ wp-content/
 wp-includes/
 
 # ignore ALL files in ANY directory named temp
-* wp-admin/
-demo/wp-admin/
+wp-admin/
