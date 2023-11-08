@@ -1,0 +1,17 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+wp-content/
+
+# ignore ALL files in ANY directory named temp
+wp-includes/
+
+# ignore ALL files in ANY directory named temp
+wp-admin/
