@@ -34,7 +34,6 @@ files/wp-content/themes/esco/config.codekit
 Thumbs.db
 
 # wordpress specific
-/opt/lampp/htdocs/demo/wp-config.php
 wp-config.php
 wp-content/uploads/*
 wp-content/blogs.dir/*
