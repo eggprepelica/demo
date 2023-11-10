@@ -9,9 +9,9 @@ temp/
 .sass-cache/
 .codekit-config.json
 .config.codekit
-files/wp-content/themes/esco/assets/scss/.sass-cache/*
-files/wp-content/themes/esco/config.codekit
-/wp-content/themes/esco/config.codekit
+files/wp-content/themes/twentytwentyfour/assets/scss/.sass-cache/*
+files/wp-content/themes/twentytwentyfour/config.codekit
+/wp-content/themes/twentytwentyfour/config.codekit
 
 
 # wpengine #
@@ -41,10 +41,10 @@ wp-content/plugins/contact-form-7/*
 wp-content/plugins/gravityforms/*
 wp-content/plugins/hyperdb/*
 wp-content/themes/hustle/*
-wp-content/themes/twentytwelve/*
-wp-content/themes/twentythirteen/*
-wp-content/themes/twentyfourteen/*
-wp-content/themes/twentyfifteen/*
+wp-content/themes/twentytwentyfour/*
+/wp-content/themes/twentythirteen/*
+/wp-content/themes/twentyfourteen/*
+/wp-content/themes/twentyfifteen/*
 wp-content/themes/storefront/*
 wp-content/plugins/wordpress-seo/*
 wp-content/plugins/wordpress-popup/*
@@ -88,7 +88,7 @@ wp-content/plugins/user-switching/*
 wp-content/plugins/username-changer/*
 wp-content/plugins/wp-changes-tracker/*
 wp-content/plugins/wp-password-generator/*
-wp-content/themes/twentyeleven/*
+/wp-content/themes/twentyeleven/*
 wp-content/plugins/woocommerce-gateway-stripe/*
 wp-content/plugins/wp-migrate-db-pro-media-files/*
 wp-content/plugins/wp-migrate-db-pro/*
@@ -179,12 +179,12 @@ wp-content/mysql.sql
 /wp-blog-header.php
 /wp-comments-post.php
 /wp-commentsrss2.php
-/wp-config-sample.php
+wp-config-sample.php
 /wp-cron.php
 /wp-feed.php
 /wp-links-opml.php
 /wp-load.php
-/wp-login.php
+wp-login.php
 /wp-mail.php
 /wp-rdf.php
 /wp-rss.php
@@ -198,7 +198,7 @@ wp-content/mysql.sql
 /wp-admin
 /wp-includes
 /wp-content/index.php
-/wp-content/themes/twentyten
+/wp-content/themes/twentytwentyfour
 /wp-content/themes/index.php
 /wp-content/plugins/index.php
 
