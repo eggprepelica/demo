@@ -4,15 +4,6 @@
 # ignore ALL files in ANY directory named temp
 temp/
 
-# ignore ALL specific file path
-#wp-content
-
-# ignore ALL specific file path
-#wp-includes
-
-# ignore ALL specific file path
-#wp-admin
-
 # codekit #
 ###########
 .sass-cache/
