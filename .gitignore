@@ -25,7 +25,7 @@ files/wp-content/themes/twentytwentyfour/config.codekit
 Thumbs.db
 
 # wordpress specific
-/wp-content/*
+wp-content/*
 wp-content/uploads/*
 wp-content/blogs.dir/*
 wp-content/upgrade/*
@@ -42,7 +42,7 @@ wp-content/plugins/contact-form-7/*
 wp-content/plugins/gravityforms/*
 wp-content/plugins/hyperdb/*
 wp-content/themes/hustle/*
-wp-content/themes/twentytwentyfour/
+wp-content/themes/twentytwentyfour/*
 /wp-content/themes/twentythirteen/*
 /wp-content/themes/twentyfourteen/*
 /wp-content/themes/twentyfifteen/*
@@ -185,8 +185,8 @@ wp-content/mysql.sql
 /wp-feed.php
 /wp-links-opml.php
 /wp-load.php
-/wp-login.php
-/wp-mail.php
+wp-login.php
+wp-mail.php
 /wp-rdf.php
 /wp-rss.php
 /wp-rss2.php
@@ -196,12 +196,6 @@ wp-content/mysql.sql
 /wp-signup.php
 /wp-trackback.php
 /xmlrpc.php
-/wp-admin/
-/wp-includes/
-wp-content/index.php
-wp-content/themes/twentytwentyfour
-wp-content/themes/index.php
-/wp-content/plugins/index.php
 
 
 *~
