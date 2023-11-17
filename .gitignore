@@ -25,7 +25,7 @@ files/wp-content/themes/twentytwentyfour/config.codekit
 Thumbs.db
 
 # wordpress specific
-wp-config.php
+wp-content/*
 wp-content/uploads/*
 wp-content/blogs.dir/*
 wp-content/upgrade/*
@@ -96,7 +96,7 @@ wp-content/plugins/wp-migrate-db-pro/*
 wp-content/plugins/display-widgets/*
 wp-content/plugins/simple-custom-post-order/*
 wp-content/plugins/page-comments-off-please/*
-wp-content/plugins/woocommerce-google-trusted-stores-integration-master/*
+wp-content/plugins/*woocommerce-google-trusted-stores-integration-master/*
 wp-content/plugins/types/*
 wp-content/plugins/vaultpress/*
 wp-content/plugins/responsive-video-embeds/*
@@ -169,7 +169,7 @@ wp-content/mu-plugins/wpengine-common/*
 wp-content/mysql.sql
 
 # wp core (as of 3.4.1)
-
+/wp-config.php
 /db-config.php
 /index.php
 /license.txt
@@ -196,12 +196,12 @@ wp-content/mysql.sql
 /wp-signup.php
 /wp-trackback.php
 /xmlrpc.php
-wp-admin
-wp-includes
+/wp-admin/*
+/wp-includes/*
 wp-content/index.php
 wp-content/themes/twentytwentyfour
 wp-content/themes/index.php
-wp-content/plugins/index.php
+/wp-content/plugins/index.php
 
 
 *~
@@ -225,6 +225,7 @@ uploads*
 *_backup
 gt-cache
 ics-importer-cache
+demo/wp-config.php
 wp-config-sample.php
 wp-content/w3tc*
 wp-content/w3-*
