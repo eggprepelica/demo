@@ -25,7 +25,7 @@ files/wp-content/themes/twentytwentyfour/config.codekit
 Thumbs.db
 
 # wordpress specific
-demo/wp-content/
+wp-content/*
 wp-content/uploads/*
 wp-content/blogs.dir/*
 wp-content/upgrade/*
@@ -46,7 +46,7 @@ wp-content/themes/twentytwentyfour/*
 #/wp-content/themes/twentythirteen/*
 #/wp-content/themes/twentyfourteen/*
 #/wp-content/themes/twentyfifteen/*
-wp-content/themes/storefront/*
+#wp-content/themes/storefront/*
 wp-content/plugins/wordpress-seo/*
 wp-content/plugins/wordpress-popup/*
 wp-content/plugins/woothemes-updater/*
@@ -113,7 +113,7 @@ wp-content/plugins/peters-login-redirect/*
 wp-content/plugins/json-rest-api/*
 wp-content/plugins/json-api/*
 wp-content/plugins/iwp-client/*
-wp-content/plugins/hello.php
+#wp-content/plugins/hello.php
 wp-content/plugins/googleanalytics/*
 wp-content/plugins/flowplayer-tooltips/*
 wp-content/plugins/facetwp/*
@@ -153,7 +153,7 @@ wp-content/plugins/wp-bitly/*
 wp-content/plugins/wp-lightbox-2/*
 wp-content/plugins/wp-missed-schedule/*
 wc-logs/*
-landing/importbuddy.php
+#landing/importbuddy.php
 landing/importbuddy.php
 
 
@@ -185,8 +185,8 @@ wp-content/mysql.sql
 /wp-feed.php
 /wp-links-opml.php
 /wp-load.php
-/wp-login.php
-/wp-mail.php
+demo/wp-login.php
+demo/wp-mail.php
 /wp-rdf.php
 /wp-rss.php
 /wp-rss2.php
