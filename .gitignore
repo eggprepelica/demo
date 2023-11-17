@@ -25,7 +25,6 @@ files/wp-content/themes/twentytwentyfour/config.codekit
 Thumbs.db
 
 # wordpress specific
-wp-content/*
 wp-content/uploads/*
 wp-content/blogs.dir/*
 wp-content/upgrade/*
@@ -185,8 +184,8 @@ wp-content/mysql.sql
 /wp-feed.php
 /wp-links-opml.php
 /wp-load.php
-demo/wp-login.php
-demo/wp-mail.php
+/wp-login.php
+/wp-mail.php
 /wp-rdf.php
 /wp-rss.php
 /wp-rss2.php
@@ -196,7 +195,7 @@ demo/wp-mail.php
 /wp-signup.php
 /wp-trackback.php
 /xmlrpc.php
-
+demo/wp-content/
 
 *~
 .svn
