@@ -35,7 +35,7 @@ wp-content/wp-cache-config.php
 wp-content/cache/*
 wp-content/cache/supercache/*
 wp-content/mu-plugins/*
-wp-content/plugins/simply-static/*
+/wp-content/plugins/simply-static/*
 wp-content/plugins/backupbuddy/*
 wp-content/plugins/akismet/*
 wp-content/plugins/contact-form-7/*
