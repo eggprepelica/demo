@@ -196,8 +196,8 @@ wp-content/mysql.sql
 /wp-signup.php
 /wp-trackback.php
 /xmlrpc.php
-/wp-admin/*
-/wp-includes/*
+/wp-admin/
+/wp-includes/
 wp-content/index.php
 wp-content/themes/twentytwentyfour
 wp-content/themes/index.php
