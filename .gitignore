@@ -168,8 +168,8 @@ wp-content/mu-plugins/wpengine-common/*
 wp-content/mysql.sql
 
 # wp core (as of 3.4.1)
- wp-content
- wp-content/uploads
+ /wp-content
+ /wp-content/uploads
 /wp-config.php
 /db-config.php
 /index.php
